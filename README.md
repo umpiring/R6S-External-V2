@@ -39,10 +39,12 @@ Features
 - No-Recoil
 - No-Spread
 
-## Features
+## Help 
 
-Help
+Discord
 - Possible#0999
+Email
+- possible@closetcheaters.club
 
 
 
