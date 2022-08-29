@@ -43,8 +43,6 @@ Features
 
 Discord
 - Possible#0999
-Email
-- possible@closetcheaters.club
 
 
 
