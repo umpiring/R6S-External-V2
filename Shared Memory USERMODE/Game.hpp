@@ -7,8 +7,6 @@
 #include <emmintrin.h>
 #include <intrin.h>
 #include <emmintrin.h>
-#include "Loading/driver.h"
-#include "Loading/mem.h"
 #include <utility>
 
 namespace Game
