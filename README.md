@@ -26,7 +26,7 @@ Follow the following instructions
 
 - Add a driver or use it in usermode with Battleye off
 - Compile on x64 Release
-- Ensure you have dx 2012 installed
+- Ensure you have DirectX 2012 sdk installed
 - Ensure you have wdk installed if you plan on building a driver
 - This will not build right away, you will have to add a DRIVER!
     
