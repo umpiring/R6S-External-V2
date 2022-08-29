@@ -9,7 +9,7 @@
 #include "../Defines.hpp"
 #include "../globals.hpp"
 #include <random>
-#include "../Loading/xor.h"
+
 
 HWND hwnd = nullptr;
 using namespace std;
