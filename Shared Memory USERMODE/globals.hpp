@@ -56,7 +56,6 @@ struct _globals
     bool menu = false;
     bool enableEsp = true;
     bool cornerbox = false;
-    bool drawNazi = true;
     bool skeletons = false;
     bool healthbar = false;
     bool Names = true;
