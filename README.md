@@ -10,7 +10,7 @@ Rainbow Six siege external with amazing features! Aimbot,  ESP, No-Spread, No-Re
  - [Base + Overlay from original](https://github.com/fir3z)
 
 
-## Authors
+## Contributors
 
 - [Me](https://www.github.com/Possbl)
 - [Surge](https://github.com/SurgeGotTappedAgain)
