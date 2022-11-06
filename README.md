@@ -42,7 +42,7 @@ Features
 ## Help 
 
 Discord
-- Possible#1000 (was poor & ran outta nitro for a bit)
+- Possible#4113 (was poor & ran outta nitro for a bit)
 
 
 
