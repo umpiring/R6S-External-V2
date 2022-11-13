@@ -39,10 +39,13 @@ Features
 - No-Recoil
 - No-Spread
 
-## Help 
+## Help | Note
 
 Discord
-- Possible#4113 (was poor & ran outta nitro for a bit)
+- Possible#4113 
+Recent Update
+This will probably not be ever updated again as ubisoft did some very interesting things to the game
+RIP
 
 
 
