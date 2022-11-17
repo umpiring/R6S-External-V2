@@ -43,9 +43,6 @@ Features
 
 Discord
 - Possible#4113 
-Recent Update
-This will probably not be ever updated again as ubisoft did some very interesting things to the game
-RIP
 
 
 
