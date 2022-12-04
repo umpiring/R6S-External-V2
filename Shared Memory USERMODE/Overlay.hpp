@@ -358,7 +358,6 @@ void RenderMenu()
 				ImGui::ColorEdit3("Box Colour", (float*)&BoxColour);
 				ImGui::Checkbox("Player Info", &globals.PlayerInfo);
 				ImGui::Checkbox("Team Check", &globals.teamcheck);
-				ImGui::Checkbox("Nazi Crosshair", &globals.drawNazi);
 			}
 			ImGui::Spacing();
 			ImGui::Text("Misc");
