@@ -39,11 +39,11 @@ Features
 - No-Recoil
 - No-Spread
 
-## Help | Note
+## My Contact Info
 
 Discord
 - Possible#4113 
-- https://discord.gg/fp8pXaUgSn ( decided to make a server since alot of people were adding me )
+- https://discord.gg/fp8pXaUgSn
 
 
 
