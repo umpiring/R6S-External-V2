@@ -7,17 +7,22 @@ Rainbow Six siege external with amazing features! Aimbot,  ESP, No-Spread, No-Re
  - Q: Is this cheat updated?
  - A: No, it's several months out of date.
  
+ 
  - Q: Can you update/will you update the cheat?
  - A: No, I have no intentions to update this cheat
+ 
  
  - Q: Does this support custom builds?
  - A: No, like I said this was made prior to custom builds
  
+ 
  - Q: How do I add a driver?
  - A: Add your usermode communication into the source and change the source accordingly
  
+ 
  - Q: I have a name space error, how do I fix this?
  - A: I suggest having a bit more knowledge in C++ before continuing with this source.
+ 
  
  - Q: Can I pay you to add a driver or update the source?
  - A: No, I am not interested.
