@@ -9,7 +9,7 @@ Rainbow Six siege external with amazing features! Aimbot,  ESP, No-Spread, No-Re
 
 
  - **Q:** Can you update/will you update the cheat?
-** A:**No, I have no intentions to update this cheat
+**A:**No, I have no intentions to update this cheat
 
  - **Q:** Does this support custom builds?
  **A:** No, like I said this was made prior to custom builds
