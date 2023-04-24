@@ -23,22 +23,6 @@ Rainbow Six siege external with amazing features! Aimbot,  ESP, No-Spread, No-Re
  - **Q:** Can I pay you to add a driver or update the source?
  **A:** No, I am not interested.
 
-## Acknowledgements
-
- - [Original](https://github.com/SurgeGotTappedAgain/External-R6S-Cheat)
- - [Base + Overlay from original](https://github.com/fir3z)
-
-
-## Contributors
-
-- [Me](https://www.github.com/Possbl)
-- [Surge](https://github.com/SurgeGotTappedAgain)
-- InsideExploit
-- [Firez](https://github.com/fir3z)
-- UghYes
-
-
-
 ## Installation Process
 
 Follow the following instructions
