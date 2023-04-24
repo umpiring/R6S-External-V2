@@ -61,13 +61,6 @@ Features
 - No-Recoil
 - No-Spread
 
-## My Contact Info
-
-Discord
-- Possible#4113 
-- https://discord.gg/fp8pXaUgSn
-
-
 
 ## Screenshot
 
