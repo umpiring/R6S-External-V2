@@ -8,7 +8,7 @@
 #include <mutex>
 #include <TlHelp32.h>
 
-#pragma once
+
 typedef          __int64 ll;
 typedef unsigned __int64 ull;
 
